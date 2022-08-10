@@ -1,9 +1,13 @@
-<style>
-  p {
-      font-family: consolas; 
-    }
-</style>  
+<svg>
+  <foreignObject width="100%" height="100%">
+    <style>
+      p {
+        font-family: consolas; 
+        }
+    </style>  
 
-<div class="container">
-  <p>just discovered that we can do this lol. Just create a repo with your username and make it if you want to ig. nifty eh mate?</p>
-</div>
+    <div class="container">
+      <p>just discovered that we can do this lol. Just create a repo with your username and make it if you want to ig. nifty eh mate?</p>
+    </div>
+  </foreignObject>    
+</svg>
