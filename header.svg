@@ -1,12 +1,14 @@
 <svg>
   <foreignObject width="100%" height="100%">
-    <style>
-      p {
-        font-family: consolas; 
-        }
-    </style>  
-     <div>
-      <p>just discovered that we can do this lol. Just create a repo with your username and make it if you want to ig. nifty eh mate?</p>
-    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml">    
+      <style>
+        p {
+            font-family: consolas; 
+          }
+      </style>  
+      <div>
+        <p>just discovered that we can do this lol. Just create a repo with your username and make it if you want to ig. nifty eh mate?</p>
+      </div>
+     </div> 
   </foreignObject>    
 </svg>
