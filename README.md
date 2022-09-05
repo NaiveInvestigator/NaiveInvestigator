@@ -1,1 +1,1 @@
-[![NaiveInvestigator's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaiveInvestigator)](https://github.com/anuraghazra/github-readme-stats)
+[![NaiveInvestigator's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaiveInvestigator&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
